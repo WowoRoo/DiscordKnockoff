@@ -1,0 +1,6 @@
+@DiscordKnockoff_HostAddress = http://localhost:5178
+
+GET {{DiscordKnockoff_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DiscordKnockoff.DataAccess/DiscordKnockoff.DataAccess.csproj" />
+  <Project Path="DiscordKnockoff/DiscordKnockoff.Api.csproj" />
+</Solution>
